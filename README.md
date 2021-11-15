@@ -22,11 +22,11 @@ The total overall passing decreases by .9%
 
 #### District Summary with Thomas High School's 9th grade results:
 
-![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2017/CodeRun-%202017.png)
+![This is an image](https://github.com/smilesandsobs/School_District_Analysis/blob/main/Resources/District%20Summary%20DF.png)
 
 #### District Summary withOUT Thomas High School's 9th grade results:
 
-![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2017/CodeRun-%202017.png)
+![This is an image](https://github.com/smilesandsobs/School_District_Analysis/blob/main/Resources/District%20Summary%20DF-Edited.png)
 
 ### How is the school summary affected?:
 
@@ -42,11 +42,11 @@ Removing the ninth graders' math and reading scores does not impact Thomas High 
 
 #### Descending School Summary with Thomas High School's 9th grade results: 
 
-![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2017/CodeRun-%202017.png)
+![This is an image](https://github.com/smilesandsobs/School_District_Analysis/blob/main/Resources/School%20Summary%20DF%20SORTED.png)
 
 #### Descending School Summary withOUT Thomas High School's 9th grade results: 
 
-![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2017/CodeRun-%202017.png)
+![This is an image](https://github.com/smilesandsobs/School_District_Analysis/blob/main/Resources/School%20Summary%20DF%20SORTED%20-Edited.png)
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade:
@@ -87,7 +87,7 @@ The % Overall Passing goes down by approximatly .1%
 To summarize just a few of the changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School were replaced with NaNs.
 
 #### Summary by Grades 
-![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2017/CodeRun-%202017.png)
+![This is an image](https://github.com/smilesandsobs/School_District_Analysis/blob/main/Resources/By%20Grade.png)
 
 - The 9th grade results for Thomas High School show as NaN.
 - All of our averages in our summaries were slightly impacted with the reading score decreasing more than the math averages.
